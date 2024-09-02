@@ -1,6 +1,6 @@
 # Preface
 
-An universal AS5600(L) library for any platform. 
+A universal AS5600(L) library for any platform. 
 
 Adapted by GPT-4o from https://github.com/RobTillaart/AS5600 , human verified. :)
 
